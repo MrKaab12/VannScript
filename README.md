@@ -1,6 +1,6 @@
-# Vann Custom Scripting Language
+# Vann Very Basic Custom Scripting Language
 
-
+# code
 Example Code : 
 
 var text (Hello world this is text)
