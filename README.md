@@ -1,6 +1,6 @@
 # Vann Very Basic Custom Scripting Language
 
-# code
+```ruby
 Example Code : 
 
 var text (Hello world this is text)
@@ -23,5 +23,5 @@ inp age
 
 
 log(Your name ist {name} and your age is {age})
-
+```
 
