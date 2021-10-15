@@ -12,10 +12,12 @@ log(The text var is here --> {text})
 
 
 log(Your name : )
+
 inp name
 
 
 log(Your age : )
+
 inp age
 
 
